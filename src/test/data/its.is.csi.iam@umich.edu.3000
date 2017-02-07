@@ -1,0 +1,9 @@
+From: MComm Dev <itcs-mcomm@umich.edu>
+To: its.is.csi.iamsmdt@umich.edu
+Message-ID: <9105280.01343226078995.JavaMail.itcs-mcomm@umich.edu>
+Subject: 'My Driver' Driver on 'myhost' has changed state to 'CRITICAL'
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Events in the driver queue are older than 60 minutes.
