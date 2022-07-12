@@ -1,3 +1,5 @@
+Archiving to just keep for reference since it's a very old version of Camel and isn't needed anymore.
+
 Camel Router WAR Project
 ========================
 
